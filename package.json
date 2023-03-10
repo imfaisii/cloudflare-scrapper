@@ -1,0 +1,14 @@
+{
+  "name": "fiverr-scrapper",
+  "version": "1.0.0",
+  "description": "This is a scrapper for getting product prices",
+  "main": "index.js",
+  "author": "Faisal Ashfaq",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^19.7.4",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
